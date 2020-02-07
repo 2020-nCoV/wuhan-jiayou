@@ -1,0 +1,4 @@
+FUNC Main() int
+  IO.write("💖武汉加油，中国加油🇨🇳!\n")
+  RETURN 0
+}

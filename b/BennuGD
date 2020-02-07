@@ -1,0 +1,6 @@
+import "mod_say" 
+ 
+Process Main()
+Begin 
+    say("💖武汉加油，中国加油🇨🇳!");
+End

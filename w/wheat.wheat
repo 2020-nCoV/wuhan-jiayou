@@ -1,0 +1,6 @@
+input h
+if h "H":
+ output " Wuhan!"
+ output N
+ terminate
+output "Love,"

@@ -1,0 +1,15 @@
+// 💖武汉加油，中国加油🇨🇳 in Lisaac
+
+Section Header
+	+ name		:= HELLO_WORLD;
+	
+Section Inherit
+
+	- parent_object:OBJECT := OBJECT;
+
+Section Public
+
+	- main <-
+	(
+		"💖武汉加油，中国加油🇨🇳 !\n".print;
+	);

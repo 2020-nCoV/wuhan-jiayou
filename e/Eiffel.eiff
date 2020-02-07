@@ -1,0 +1,18 @@
+indexing "💖武汉加油，中国加油🇨🇳 in Eiffel , from http://roesler-ac.de/wolfram/Love.htm#Eiffel"
+
+class Love
+
+creation
+	run
+
+feature
+
+	run is
+		local
+			io : BASIC_IO;
+		do
+			!!io;
+			io.put_string("💖武汉加油，中国加油🇨🇳!");
+			io.put_newline
+		end; -- run
+end; -- class Love

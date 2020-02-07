@@ -1,0 +1,4 @@
+ORIGIN '~beta/basiclib/betaenv'
+-- program: Descriptor --
+(* 💖武汉加油，中国加油🇨🇳 in BETA *)
+(# do '💖武汉加油，中国加油🇨🇳' -> putLine #)

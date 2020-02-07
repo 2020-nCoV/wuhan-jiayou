@@ -1,0 +1,8 @@
+MODULE WuhanJiaYou;
+
+IMPORT Out;
+
+BEGIN
+   Out.Open;
+   Out.String('💖武汉加油，中国加油🇨🇳');
+END WuhanJiaYou.

@@ -1,0 +1,6 @@
+begin
+	?hello = "💖武汉加油，中国加油🇨🇳"
+	if 1 == 1 then
+		output ?hello
+	fi
+end

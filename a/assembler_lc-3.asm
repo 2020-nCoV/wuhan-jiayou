@@ -1,0 +1,6 @@
+			.ORIG x3000
+
+			LEA R0, HELLOWORLD
+			PUTS
+	
+HELLOWORLD	.STRINGZ "💖武汉加油，中国加油🇨🇳!\n"

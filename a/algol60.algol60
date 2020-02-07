@@ -1,0 +1,6 @@
+BEGIN
+  FILE F(KIND=REMOTE);
+  EBCDIC ARRAY E[0:11];
+  REPLACE E BY "💖武汉加油，中国加油🇨🇳!";
+  WRITE(F, *, E);
+END.

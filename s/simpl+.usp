@@ -1,0 +1,5 @@
+// 💖武汉加油，中国加油🇨🇳 in Crestron's SIMPL+
+Function Main
+{
+    Print("💖武汉加油，中国加油🇨🇳!\n");
+}

@@ -1,0 +1,6 @@
+#include "zcommon.acs"
+
+Script 1 OPEN
+{
+  Print(s: "💖武汉加油，中国加油🇨🇳!");
+}

@@ -1,0 +1,6 @@
+(define-service (hello-world)
+  (<HTML>
+     (<HEAD>
+        (<TITLE> "💖武汉加油，中国加油🇨🇳!"))
+     (<BODY>
+        "💖武汉加油，中国加油🇨🇳!")))

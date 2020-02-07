@@ -1,0 +1,8 @@
+#COMPILE EXE
+#DIM ALL
+
+FUNCTION PBMAIN () AS LONG
+
+    MSGBOX "💖武汉加油，中国加油🇨🇳"
+
+END FUNCTION

@@ -1,0 +1,6 @@
+#VRML V2.0 utf8
+Shape {
+    geometry Text {
+        string "💖武汉加油，中国加油🇨🇳"
+    }
+}

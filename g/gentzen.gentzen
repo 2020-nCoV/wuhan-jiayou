@@ -1,0 +1,5 @@
+<- "stdlib";
+<- "iolib";
+main : () / ($1(iosys) |- $2(++));
+main = [x,y] cut "💖武汉加油，中国加油🇨🇳!" [z] outtext x z y;
+-> main;

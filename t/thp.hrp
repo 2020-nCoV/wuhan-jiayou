@@ -1,0 +1,6 @@
+; 💖武汉加油，中国加油🇨🇳 in "The Harper Programmer"
+; Compiled and tested with version 2.0 Sybex Edition
+
+Variable        Msg,13,"💖武汉加油，中国加油🇨🇳!"
+
+Write           Msg

@@ -1,0 +1,8 @@
+loop:       Love (-1)
+            minusOne loop
+            minusOne checkEnd+1
+checkEnd:   Z Love (-1) 
+            Z Z loop
+				
+. minusOne: -1
+. Love: "💖武汉加油，中国加油🇨🇳\n" Z: 0

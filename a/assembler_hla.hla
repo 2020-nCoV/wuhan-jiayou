@@ -1,0 +1,7 @@
+program WuhanJiaYou;
+
+#include( "stdlib.hhf" );
+
+begin WuhanJiaYou;
+  stdout.put( "💖武汉加油，中国加油🇨🇳!", nl );
+end WuhanJiaYou;

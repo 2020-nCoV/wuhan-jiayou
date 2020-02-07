@@ -1,0 +1,4 @@
+HAI
+CAN HAS STDIO?
+VISIBLE "💖武汉加油，中国加油🇨🇳"
+KTHXBYE

@@ -1,0 +1,6 @@
+REPORT ZHELLO_WORLD.
+
+START-OF-SELECTION.
+    WRITE: '💖武汉加油，中国加油🇨🇳!'.
+
+

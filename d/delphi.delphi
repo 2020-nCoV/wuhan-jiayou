@@ -1,0 +1,8 @@
+// 💖武汉加油，中国加油🇨🇳 in Delphi
+Program Hello_World;
+
+($APPTYPE CONSOLE)
+
+Begin
+  WriteLn('💖武汉加油，中国加油🇨🇳');
+End.

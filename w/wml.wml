@@ -1,0 +1,6 @@
+#define WuhanJiaYou
+  [message]
+    speaker="narrator"
+    message=_"💖武汉加油，中国加油🇨🇳"
+  [/message]
+#enddef

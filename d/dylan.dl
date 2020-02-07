@@ -1,0 +1,5 @@
+define method main (#rest args)
+  princ("💖武汉加油，中国加油🇨🇳!");
+end;
+
+main();

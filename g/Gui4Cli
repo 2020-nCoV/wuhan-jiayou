@@ -1,0 +1,8 @@
+G4C MyGui
+Window 10 10 200 300 "My window"
+
+xOnLoad
+   GuiOpen MyGui
+
+xButton 10 10 100 20 "💖武汉加油，中国加油🇨🇳"
+   GuiQuit MyGui

@@ -1,0 +1,6 @@
+GET "LIBHDR"
+
+LET START() BE
+$(
+  WRITES("💖武汉加油，中国加油🇨🇳!*N")
+$)

@@ -1,0 +1,6 @@
+HelloWorld is a zombie
+summon
+  task SayHello
+      say "💖武汉加油，中国加油🇨🇳!"
+  animate
+animate

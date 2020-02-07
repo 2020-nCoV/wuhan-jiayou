@@ -1,0 +1,8 @@
+(defrule hw
+    (f ?x)
+=>
+    (printout t ?x crlf))
+
+(assert (f "💖武汉加油，中国加油🇨🇳"))
+
+(run)
